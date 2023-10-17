@@ -1,0 +1,24 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.99" height="59.365" viewBox="0 0 59.99 59.365">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.146" y1="0.146" x2="0.854" y2="0.854" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fae100"/>
+      <stop offset="0.15" stop-color="#fcb720"/>
+      <stop offset="0.3" stop-color="#ff7950"/>
+      <stop offset="0.5" stop-color="#ff1c74"/>
+      <stop offset="1" stop-color="#6c1cd1"/>
+    </linearGradient>
+  </defs>
+  <g id="Circle" transform="translate(0 0)">
+    <g id="_03.Instagram" data-name="03.Instagram">
+      <rect id="Background" width="59.99" height="59.365" rx="29.682" fill="url(#linear-gradient)"/>
+      <g id="Group_2319" data-name="Group 2319" transform="translate(0.272)">
+        <path id="Shade" d="M52.09,10.166A105.945,105.945,0,0,1,33.975,33.977a106.085,106.085,0,0,1-23.8,18.1q-.747-.649-1.451-1.353A29.713,29.713,0,1,1,50.74,8.7q.7.708,1.35,1.465Z" transform="translate(-0.016 0)" fill="#fff" opacity="0.1"/>
+        <g id="Icon" transform="translate(14.07 14.076)">
+          <path id="Path_1860" data-name="Path 1860" d="M58.678,36H44.6A8.6,8.6,0,0,0,36,44.6V58.678a8.6,8.6,0,0,0,8.6,8.6H58.678a8.6,8.6,0,0,0,8.6-8.6V44.6a8.6,8.6,0,0,0-8.6-8.6Zm5.865,21.442a7.1,7.1,0,0,1-7.1,7.1h-11.6a7.1,7.1,0,0,1-7.1-7.1v-11.6a7.1,7.1,0,0,1,7.1-7.1h11.6a7.1,7.1,0,0,1,7.1,7.1Z" transform="translate(-36 -36)" fill="#fff"/>
+          <path id="Path_1861" data-name="Path 1861" d="M69.293,57.766l-.074-.074-.063-.063a7.882,7.882,0,0,0-5.568-2.3,8.023,8.023,0,0,0-7.968,8.082,8.113,8.113,0,0,0,2.346,5.712A7.894,7.894,0,0,0,63.6,71.47a8.105,8.105,0,0,0,5.689-13.7Zm-5.7,10.948a5.3,5.3,0,1,1,5.228-5.3,5.3,5.3,0,0,1-5.228,5.3Z" transform="translate(-47.948 -47.772)" fill="#fff"/>
+          <path id="Path_1862" data-name="Path 1862" d="M96.529,51.4a1.908,1.908,0,0,1-1.9,1.924A1.881,1.881,0,0,1,93.3,52.76a1.928,1.928,0,0,1,1.341-3.28,1.885,1.885,0,0,1,1.208.438l.039.039a1.193,1.193,0,0,1,.172.172l.043.047a1.924,1.924,0,0,1,.43,1.22Z" transform="translate(-70.556 -44.209)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
